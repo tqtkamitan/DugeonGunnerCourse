@@ -1,0 +1,812 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 22621.2134; Version 2009; 64bit' Language: 'en' Physical Memory: 7829 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/quangtanwork/Personal/Creation/Dungeon Gunner Course
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63261
+Successfully changed project path to: C:/quangtanwork/Personal/Creation/Dungeon Gunner Course
+C:/quangtanwork/Personal/Creation/Dungeon Gunner Course
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 70.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/quangtanwork/Personal/Creation/Dungeon Gunner Course/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Laptop GPU (ID=0x25a2)
+    Vendor:   NVIDIA
+    VRAM:     3977 MB
+    Driver:   31.0.15.2656
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56164
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/2021.1.7f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/2021.1.7f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/2021.1.7f1/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
+Registered in 0.003825 seconds.
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 117.13 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.170 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003114 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 71.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.971 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2221 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.1 MB.
+System memory in use after: 115.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2676.
+Total: 3.440200 ms (FindLiveObjects: 0.259800 ms CreateObjectMapping: 0.077900 ms MarkObjects: 2.930500 ms  DeleteObjects: 0.170000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/NodeGraph/RoomNodeGraphSO.cs
+  artifactKey: Guid(a7b321fb34bd9a84fa221a9fa0caa48f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/RoomNodeGraphSO.cs using Guid(a7b321fb34bd9a84fa221a9fa0caa48f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcd5bbd96eca3d27af10d03505a7323f') in 0.092986 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2109.782797 seconds.
+  path: Assets/Scripts/NodeGraph/RoomNodeGraphSO.cs
+  artifactKey: Guid(a7b321fb34bd9a84fa221a9fa0caa48f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/RoomNodeGraphSO.cs using Guid(a7b321fb34bd9a84fa221a9fa0caa48f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f7b15acb9e7ff8f0026175cdc1b43a8') in 0.017311 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002636 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.11 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.059 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.9 MB.
+System memory in use after: 108.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2678.
+Total: 3.040100 ms (FindLiveObjects: 0.205500 ms CreateObjectMapping: 0.054000 ms MarkObjects: 2.635100 ms  DeleteObjects: 0.144100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.100000 seconds.
+  path: Assets/Scripts/NodeGraph/RoomNodeGraphSO.cs
+  artifactKey: Guid(a7b321fb34bd9a84fa221a9fa0caa48f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/RoomNodeGraphSO.cs using Guid(a7b321fb34bd9a84fa221a9fa0caa48f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7fe7c64b02c9392fd35c9625eaa483d') in 0.026325 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002310 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.765 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.0 MB.
+System memory in use after: 108.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2680.
+Total: 1.666900 ms (FindLiveObjects: 0.125500 ms CreateObjectMapping: 0.036200 ms MarkObjects: 1.452500 ms  DeleteObjects: 0.051400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.806536 seconds.
+  path: Assets/Scripts/NodeGraph/RoomNodeSO.cs
+  artifactKey: Guid(2953bda3d63113b4d823d7a80c8e2f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/RoomNodeSO.cs using Guid(2953bda3d63113b4d823d7a80c8e2f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eed70821e9d6dd27cef863bf8299d67') in 0.014481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.071527 seconds.
+  path: Assets/Scripts/NodeGraph/RoomNodeSO.cs
+  artifactKey: Guid(2953bda3d63113b4d823d7a80c8e2f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/RoomNodeSO.cs using Guid(2953bda3d63113b4d823d7a80c8e2f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '331b648c4018aa82921c1d2eff73358e') in 0.002548 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.775217 seconds.
+  path: Assets/Scripts/NodeGraph/RoomNodeSO.cs
+  artifactKey: Guid(2953bda3d63113b4d823d7a80c8e2f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/RoomNodeSO.cs using Guid(2953bda3d63113b4d823d7a80c8e2f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b80b72c7616b694a78a8f858a8984949') in 0.002627 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 42.388079 seconds.
+  path: Assets/Scripts/NodeGraph/RoomNodeSO.cs
+  artifactKey: Guid(2953bda3d63113b4d823d7a80c8e2f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/RoomNodeSO.cs using Guid(2953bda3d63113b4d823d7a80c8e2f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9f3eef726e0d1b631d48d3d184e2069') in 0.002903 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.278047 seconds.
+  path: Assets/Scripts/NodeGraph/RoomNodeSO.cs
+  artifactKey: Guid(2953bda3d63113b4d823d7a80c8e2f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/RoomNodeSO.cs using Guid(2953bda3d63113b4d823d7a80c8e2f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e4e221189fb62d62b05d11bd23cab1a') in 0.005522 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.774026 seconds.
+  path: Assets/Scripts/NodeGraph/RoomNodeSO.cs
+  artifactKey: Guid(2953bda3d63113b4d823d7a80c8e2f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/RoomNodeSO.cs using Guid(2953bda3d63113b4d823d7a80c8e2f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e218b0c753a3922ca65757b11047fc4') in 0.002388 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.645500 seconds.
+  path: Assets/Scripts/NodeGraph/RoomNodeSO.cs
+  artifactKey: Guid(2953bda3d63113b4d823d7a80c8e2f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/RoomNodeSO.cs using Guid(2953bda3d63113b4d823d7a80c8e2f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd719a4fea410c7a06a19eee27b7dde89') in 0.003425 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001558 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.684 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.0 MB.
+System memory in use after: 108.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2682.
+Total: 3.642800 ms (FindLiveObjects: 0.400300 ms CreateObjectMapping: 0.171700 ms MarkObjects: 2.868600 ms  DeleteObjects: 0.199900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.948503 seconds.
+  path: Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs
+  artifactKey: Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs using Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e82a44dead4d52da781b470e0191454') in 0.012420 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 102.750639 seconds.
+  path: Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs
+  artifactKey: Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs using Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '182597d9a29615be0e15987005daa7e4') in 0.003374 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001704 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.698 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.0 MB.
+System memory in use after: 108.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2684.
+Total: 1.735900 ms (FindLiveObjects: 0.140500 ms CreateObjectMapping: 0.043700 ms MarkObjects: 1.490800 ms  DeleteObjects: 0.059300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.347805 seconds.
+  path: Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs
+  artifactKey: Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs using Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02f0b764b001949291f51716a884c985') in 0.008257 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001235 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.753 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.09 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.0 MB.
+System memory in use after: 108.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2686.
+Total: 1.677800 ms (FindLiveObjects: 0.134300 ms CreateObjectMapping: 0.044400 ms MarkObjects: 1.431300 ms  DeleteObjects: 0.066800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.743227 seconds.
+  path: Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs
+  artifactKey: Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs using Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31314371710cba0c3e1f247554eadab9') in 0.007544 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 84.541681 seconds.
+  path: Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs
+  artifactKey: Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs using Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '658effef5f751e46f76da1e682dbb04e') in 0.002841 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001795 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.717 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.08 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.1 MB.
+System memory in use after: 108.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2688.
+Total: 1.646000 ms (FindLiveObjects: 0.117100 ms CreateObjectMapping: 0.033200 ms MarkObjects: 1.441500 ms  DeleteObjects: 0.052900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.910395 seconds.
+  path: Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs
+  artifactKey: Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs using Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7471ecb1b771aea70bd026acb8cacd2') in 0.008879 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001833 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.838 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.1 MB.
+System memory in use after: 108.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2690.
+Total: 2.113400 ms (FindLiveObjects: 0.196600 ms CreateObjectMapping: 0.053900 ms MarkObjects: 1.577800 ms  DeleteObjects: 0.283900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.821797 seconds.
+  path: Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs
+  artifactKey: Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs using Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c468f173e6f46977bc763e65109ddfe') in 0.006865 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 68.686558 seconds.
+  path: Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs
+  artifactKey: Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs using Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dbe74f0acad17909404d047c5282f16') in 0.002277 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001298 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.749 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.1 MB.
+System memory in use after: 108.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2692.
+Total: 1.693400 ms (FindLiveObjects: 0.134600 ms CreateObjectMapping: 0.032000 ms MarkObjects: 1.460600 ms  DeleteObjects: 0.065100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.389071 seconds.
+  path: Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs
+  artifactKey: Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs using Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b10266e73fe0cfb62cebb3f9c0ebc5e6') in 0.009056 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 91.091804 seconds.
+  path: Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs
+  artifactKey: Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs using Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '097dbd5579359eed707c794eff9544b1') in 0.003079 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002046 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.749 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.2 MB.
+System memory in use after: 108.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2694.
+Total: 1.698900 ms (FindLiveObjects: 0.115700 ms CreateObjectMapping: 0.032900 ms MarkObjects: 1.495900 ms  DeleteObjects: 0.053600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.837584 seconds.
+  path: Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs
+  artifactKey: Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs using Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '948072d5aa02b1b97010cff7964f2242') in 0.008651 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1581.305726 seconds.
+  path: Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs
+  artifactKey: Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs using Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12b3066208f076afd71761f68bd80736') in 0.011962 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.393052 seconds.
+  path: Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs
+  artifactKey: Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs using Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aba3ede58a5e24d7f7f7f40d8c8c890a') in 0.002686 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 114.875957 seconds.
+  path: Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs
+  artifactKey: Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs using Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c1f21c4016224c061d31e88d8af6a29') in 0.005724 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001603 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.205 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.1 MB.
+System memory in use after: 108.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2696.
+Total: 2.347900 ms (FindLiveObjects: 0.243500 ms CreateObjectMapping: 0.056400 ms MarkObjects: 1.928600 ms  DeleteObjects: 0.118200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 125.282640 seconds.
+  path: Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs
+  artifactKey: Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs using Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d6c07d6ce8f35d15a3e2fe72618b0c3') in 0.009936 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 46.738527 seconds.
+  path: Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs
+  artifactKey: Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs using Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e335af0972de5d42dd737f3be7b405f') in 0.003989 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 48.480393 seconds.
+  path: Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs
+  artifactKey: Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs using Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34c1a91b830edd0725b986defdb83216') in 0.003734 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002322 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.142 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.2 MB.
+System memory in use after: 108.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2698.
+Total: 3.906800 ms (FindLiveObjects: 0.362500 ms CreateObjectMapping: 0.060100 ms MarkObjects: 3.344600 ms  DeleteObjects: 0.137600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001989 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.910 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.2 MB.
+System memory in use after: 108.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2700.
+Total: 1.792500 ms (FindLiveObjects: 0.134900 ms CreateObjectMapping: 0.037400 ms MarkObjects: 1.543400 ms  DeleteObjects: 0.075000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001746 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.729 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.2 MB.
+System memory in use after: 108.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2702.
+Total: 2.656400 ms (FindLiveObjects: 0.151300 ms CreateObjectMapping: 0.039300 ms MarkObjects: 2.306100 ms  DeleteObjects: 0.156800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001357 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.706 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.2 MB.
+System memory in use after: 108.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2704.
+Total: 2.126300 ms (FindLiveObjects: 0.172600 ms CreateObjectMapping: 0.060500 ms MarkObjects: 1.831200 ms  DeleteObjects: 0.060600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001741 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.733 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.1 MB.
+System memory in use after: 108.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2706.
+Total: 2.488300 ms (FindLiveObjects: 0.135300 ms CreateObjectMapping: 0.049600 ms MarkObjects: 2.237100 ms  DeleteObjects: 0.065000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001398 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.708 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.1 MB.
+System memory in use after: 108.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2708.
+Total: 1.995200 ms (FindLiveObjects: 0.119100 ms CreateObjectMapping: 0.042800 ms MarkObjects: 1.775900 ms  DeleteObjects: 0.056000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001796 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.708 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.1 MB.
+System memory in use after: 108.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2710.
+Total: 1.804400 ms (FindLiveObjects: 0.121500 ms CreateObjectMapping: 0.037100 ms MarkObjects: 1.584500 ms  DeleteObjects: 0.059600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001708 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.756 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.1 MB.
+System memory in use after: 108.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2712.
+Total: 2.956600 ms (FindLiveObjects: 0.228900 ms CreateObjectMapping: 0.049200 ms MarkObjects: 2.544400 ms  DeleteObjects: 0.127700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2439.824535 seconds.
+  path: Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs
+  artifactKey: Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs using Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bba05a81269ad447419aa91030d32157') in 0.014568 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001896 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.744 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.1 MB.
+System memory in use after: 108.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2714.
+Total: 1.798900 ms (FindLiveObjects: 0.113700 ms CreateObjectMapping: 0.036300 ms MarkObjects: 1.590300 ms  DeleteObjects: 0.057500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 68.753018 seconds.
+  path: Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs
+  artifactKey: Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs using Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c45676ca53898e6d6036e7c0e12c6853') in 0.008428 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 31.663257 seconds.
+  path: Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs
+  artifactKey: Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs using Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69430ba011a3684633552edcd37d9149') in 0.002769 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 216.778882 seconds.
+  path: Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs
+  artifactKey: Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs using Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a746595df4c60595144816008aba28ae') in 0.008795 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.074835 seconds.
+  path: Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs
+  artifactKey: Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs using Guid(bff96af0e1ee2d14190ba22805a4770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b64c9b3df417a4c19479db7620c8b90') in 0.003711 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001780 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.179 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.2 MB.
+System memory in use after: 108.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2716.
+Total: 2.978400 ms (FindLiveObjects: 0.293600 ms CreateObjectMapping: 0.059700 ms MarkObjects: 2.498200 ms  DeleteObjects: 0.125500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.666203 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungegonRoomNodeGraphs/RoomNodeGraph 1.asset
+  artifactKey: Guid(a5b87aa1a985abb4f915aeb1181c7e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungegonRoomNodeGraphs/RoomNodeGraph 1.asset using Guid(a5b87aa1a985abb4f915aeb1181c7e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '668bfdaeebd5c4dde4f92dc68838858e') in 0.493191 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungegonRoomNodeGraphs/RoomNodeGraph.asset
+  artifactKey: Guid(bbe05df0dc645b94b9cd01aba608dabf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungegonRoomNodeGraphs/RoomNodeGraph.asset using Guid(bbe05df0dc645b94b9cd01aba608dabf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05bc7912210dacc7d15d27c34e84123e') in 0.014099 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.950025 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungegonRoomNodeGraphs/RoomNodeGraph 1.asset
+  artifactKey: Guid(a5b87aa1a985abb4f915aeb1181c7e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungegonRoomNodeGraphs/RoomNodeGraph 1.asset using Guid(a5b87aa1a985abb4f915aeb1181c7e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '166acc834996f49d0a23a87b69f2bf81') in 0.006692 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.090420 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungegonRoomNodeGraphs/RoomNodeGraph 1.asset
+  artifactKey: Guid(a5b87aa1a985abb4f915aeb1181c7e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungegonRoomNodeGraphs/RoomNodeGraph 1.asset using Guid(a5b87aa1a985abb4f915aeb1181c7e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034d8d7aaf759e5671348c4b2c0d0c79') in 0.005770 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.205124 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungegonRoomNodeGraphs/RoomNodeGraph 1.asset
+  artifactKey: Guid(a5b87aa1a985abb4f915aeb1181c7e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungegonRoomNodeGraphs/RoomNodeGraph 1.asset using Guid(a5b87aa1a985abb4f915aeb1181c7e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41e74380559e7af94b71b8bc8cd6977b') in 0.006419 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.006482 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungegonRoomNodeGraphs/RoomNodeGraph 1.asset
+  artifactKey: Guid(a5b87aa1a985abb4f915aeb1181c7e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungegonRoomNodeGraphs/RoomNodeGraph 1.asset using Guid(a5b87aa1a985abb4f915aeb1181c7e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be43ff18b25a40963d375f939dda3f9e') in 0.006108 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001885 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.771 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.2 MB.
+System memory in use after: 108.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2718.
+Total: 1.793100 ms (FindLiveObjects: 0.115100 ms CreateObjectMapping: 0.038100 ms MarkObjects: 1.553000 ms  DeleteObjects: 0.085700 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
