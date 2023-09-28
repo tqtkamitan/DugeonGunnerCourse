@@ -63,6 +63,7 @@
     <Compile Include="Assets\Scripts\NodeGraph\RoomNodeTypeListSO.cs" />
     <Compile Include="Assets\Scripts\NodeGraph\RoomNodeGraphSO.cs" />
     <Compile Include="Assets\Scripts\NodeGraph\RoomNodeSO.cs" />
+    <Compile Include="Assets\Scripts\Misc\Settings.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
