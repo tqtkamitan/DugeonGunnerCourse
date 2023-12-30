@@ -370,38 +370,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1fd193ca0c9070747b633840b9710fda, type: 3}
+  m_Script: {fileID: 11500000, guid: a7b321fb34bd9a84fa221a9fa0caa48f, type: 3}
   m_Name: RoomNodeGraph_Level5_4
   m_EditorClassIdentifier: 
   roomNodeTypeList: {fileID: 0}
-  roomNodeList:
-  - {fileID: -2853919001584104958}
-  - {fileID: -1557889584357267301}
-  - {fileID: 6945907618394925035}
-  - {fileID: 546048992271439664}
-  - {fileID: 3729560728328653840}
-  - {fileID: 7836741099312433443}
-  - {fileID: -4386981892065118389}
-  - {fileID: -5567632107500801163}
-  - {fileID: 2838094865325505960}
-  - {fileID: -846534005570232969}
-  - {fileID: 6159045784183013037}
-  - {fileID: 6481862665254778056}
-  - {fileID: -8698347937721566113}
-  - {fileID: 324533739700909587}
-  - {fileID: 8568967416148235497}
-  - {fileID: 8997016146598806169}
-  - {fileID: -3959175739900866835}
-  - {fileID: 763880178929065572}
-  - {fileID: 6017803235689419924}
-  - {fileID: -2931551374357548087}
-  - {fileID: 2201388826004230451}
-  - {fileID: -2027328626831108282}
-  - {fileID: -9220150339719401501}
-  - {fileID: 4422233573019055143}
-  - {fileID: -5884270450412561802}
-  - {fileID: -3428263904443368677}
-  - {fileID: -3110109650870864742}
+  roomNodeList: []
   roomNodeToDrawLineFrom: {fileID: 0}
   linePosition: {x: 0, y: 0}
 --- !u!114 &324533739700909587
